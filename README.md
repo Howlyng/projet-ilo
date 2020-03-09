@@ -4,4 +4,4 @@ Création d'une application permettant de créer et d'éditer des figures géom�
 # Technologies utilisées
 Java.
 
-** Application développée dans le cadre du module d'ILO. **
+**Application développée dans le cadre du module d'ILO. **
